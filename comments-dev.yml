@@ -20,7 +20,7 @@ spring:
     virtual-host: /leyou
     username: /leyou
     password: leyou
-    host: 192.168.19.121
+    host: loaclhost
   redis:
     host: 192.168.19.121
   jackson:
